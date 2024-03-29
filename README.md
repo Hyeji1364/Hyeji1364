@@ -1,6 +1,6 @@
-## Hello 😃
+## Hello 👋🏼
 
-## Intro
+## Introuce ❤💓
 
 ## Projects😉
 

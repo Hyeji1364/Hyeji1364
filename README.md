@@ -3,7 +3,7 @@
 ## Hello 👋🏼
 Welcome to my Github !
 
-## Introuce ❤💓
+## Introduce ❤💓
 I am in the process of studying coding. And I'm a prospective developer.
 
 ## Projects😉

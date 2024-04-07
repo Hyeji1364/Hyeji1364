@@ -1,8 +1,10 @@
-![header](https://github.com/Hyeji1364/Hyeji1364/assets/161557112/5fe92961-1903-4e7d-a0e0-3adf5aec7c41)
+![header](https://github.com/Hyeji1364/Hyeji1364/assets/161557112/a12b0fd6-5817-482b-b54d-f2f55a22b7ec)
 
 ## Hello 👋🏼
+Welcome to my Github
 
 ## Introuce ❤💓
+I am in the process of studying coding. And I'm a prospective developer.
 
 ## Projects😉
 

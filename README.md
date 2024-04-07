@@ -1,7 +1,7 @@
 ![header](https://github.com/Hyeji1364/Hyeji1364/assets/161557112/f3a2192e-c0d1-4dbb-b423-229f8a19f321)
 
 ## Hello 👋🏼
-Welcome to my Github
+Welcome to my Github !
 
 ## Introuce ❤💓
 I am in the process of studying coding. And I'm a prospective developer.

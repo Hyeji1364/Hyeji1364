@@ -6,6 +6,9 @@ Welcome to my Github !
 ## Introduce ❤💓
 I am in the process of studying coding. And I'm a prospective developer.
 
+## GitHub Blog 🎵
+[GitHub Blog](https://hyeji1364.github.io/)
+
 ## Projects😉
 
 ## Technologies and Tools

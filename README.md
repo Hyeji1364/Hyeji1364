@@ -6,7 +6,7 @@ Welcome to my Github !
 ## Introduce ❤💓
 I am in the process of studying coding. And I'm a prospective developer.
 
-## 📒 Study
+## 📒 Study 
 - [메인 페이지](https://hyeji1364.github.io/class2024/) : 모든 정보가 있는 메인 페이지입니다.
 - [자바스크립트 정리](https://hyeji1364.github.io/class2024/javascript/index.html) : 자바스크립트에 관련한 공부를 하며 정리한 내용입니다.
 - [MY SQL](https://hyeji1364.github.io/class2024/mysql/index.html) : MYSQL 기본 개념, 테이블 셋팅 등의 내용을 정리했습니다.
@@ -18,7 +18,7 @@ I am in the process of studying coding. And I'm a prospective developer.
 - [Youtube Spot : API1](https://github.com/Hyeji1364/youtube-spot) : Youtube API를 이용한 Youtube Spot 사이트입니다.
 - [Music Chart : API2](https://github.com/Hyeji1364/youtube-music) : 음악 차트 API를 이용한 Music Chart 사이트입니다.
 
-## Team Projects 👨‍👧‍👧
+## 👨‍👧‍👧 Team Projects 
 
 1. Team Project1 : `formyceleb` [github](https://github.com/Hyeji1364/FORMYCELEB_PROJECT) / [site](http://akdma2577.dothome.co.kr/)
 - 연예인 사진을 한번에 볼 수 있으며, 사진별 댓글을 작성하고 내가 좋아하는 사진만 저장하여 한번에 볼 수 있는 사이트

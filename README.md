@@ -18,13 +18,16 @@ I am in the process of studying coding. And I'm a prospective developer.
 - [Youtube Spot](https://github.com/Hyeji1364/youtube-spot) : Youtube API를 이용한 Youtube Spot 사이트입니다.
 - [Music Chart](https://github.com/Hyeji1364/youtube-music) : 음악 차트 API를 이용한 Music Chart 사이트입니다.
 
+## Team Projects 👨‍👧‍👧
+1. [Team Project1 : formyceleb]
+2. Team Project2 :  [github](https://github.com/Hyeji1364/culturechart-api) / [site](https://culturechart-api.vercel.app)
+  - 멜론, 티켓링크, 예스24의 차트 API를 활용하여 콘서트, 뮤지컬, 전시의 데이터를 보여주는 사이트
+<br>
 
 ## GitHub Blog 🎵
 [GitHub Blog](https://hyeji1364.github.io/) : 공부하며 정리한 HTML, CSS, JAVASCRIPT, REACT, PHOTOSHOP의 내용을 블로그에 정리하였습니다.
 
-## Team Projects😉
-
-
+<br>
 
 ## Technologies and Tools
 

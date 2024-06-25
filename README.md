@@ -21,9 +21,9 @@ I am in the process of studying coding. And I'm a prospective developer.
 ## Team Projects 👨‍👧‍👧
 
 1. Team Project1 : `formyceleb` [github](https://github.com/Hyeji1364/FORMYCELEB_PROJECT) / [site](http://akdma2577.dothome.co.kr/)
-   - 연예인 사진을 한번에 볼 수 있으며, 사진별 댓글을 작성하고 내가 좋아하는 사진만 저장하여 한번에 볼 수 있는 사이트
+- 연예인 사진을 한번에 볼 수 있으며, 사진별 댓글을 작성하고 내가 좋아하는 사진만 저장하여 한번에 볼 수 있는 사이트
 2. Team Project2 : `CultureChart` [github](https://github.com/Hyeji1364/culturechart-api) / [site](https://culturechart-api.vercel.app)
-  - 멜론, 티켓링크, 예스24의 차트 API를 활용하여 콘서트, 뮤지컬, 전시의 데이터를 보여주는 사이트
+- 멜론, 티켓링크, 예스24의 차트 API를 활용하여 콘서트, 뮤지컬, 전시의 데이터를 보여주는 사이트
 <br>
 
 ## GitHub Blog 🎵

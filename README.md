@@ -15,8 +15,8 @@ I am in the process of studying coding. And I'm a prospective developer.
 - [CSS Animaition](https://hyeji1364.github.io/class2024/css/index.html) : CSS를 이용하여 애니메이션을 구현하였습니다.
 - [Mouse Effect](https://hyeji1364.github.io/class2024/effect/mouse01.html) : 마우스 이펙트를 구현한 페이지입니다.
 - [Parallax Effect](https://hyeji1364.github.io/class2024/effect/parallax01.html) : GSAP Parallax Effect를 구현하여 정리하였습니다.
-- [Youtube Spot](https://github.com/Hyeji1364/youtube-spot) : Youtube API를 이용한 Youtube Spot 사이트입니다.
-- [Music Chart](https://github.com/Hyeji1364/youtube-music) : 음악 차트 API를 이용한 Music Chart 사이트입니다.
+- [Youtube Spot : API1](https://github.com/Hyeji1364/youtube-spot) : Youtube API를 이용한 Youtube Spot 사이트입니다.
+- [Music Chart : API2](https://github.com/Hyeji1364/youtube-music) : 음악 차트 API를 이용한 Music Chart 사이트입니다.
 
 ## Team Projects 👨‍👧‍👧
 

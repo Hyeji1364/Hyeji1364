@@ -19,8 +19,8 @@ I am in the process of studying coding. And I'm a prospective developer.
 - [Music Chart](https://github.com/Hyeji1364/youtube-music) : 음악 차트 API를 이용한 Music Chart 사이트입니다.
 
 ## Team Projects 👨‍👧‍👧
-1. [Team Project1 : formyceleb]
-2. Team Project2 :  [github](https://github.com/Hyeji1364/culturechart-api) / [site](https://culturechart-api.vercel.app)
+1. Team Project1 : `formyceleb`
+2. Team Project2 : `CultureChart` [github](https://github.com/Hyeji1364/culturechart-api) / [site](https://culturechart-api.vercel.app)
   - 멜론, 티켓링크, 예스24의 차트 API를 활용하여 콘서트, 뮤지컬, 전시의 데이터를 보여주는 사이트
 <br>
 

@@ -27,8 +27,7 @@ I am in the process of studying coding. And I'm a prospective developer.
 <br>
 
 ## GitHub Blog 🎵
-[GitHub Blog](https://hyeji1364.github.io/) : 공부하며 정리한 HTML, CSS, JAVASCRIPT, REACT, PHOTOSHOP의 내용을 블로그에 정리하였습니다.
-
+[GitHub Blog](https://hyeji1364.github.io/) : HTML, CSS, JAVASCRIPT, REACT, PHOTOSHOP을 공부하며 내용을 정리하여 블로그에 업로드했습니다.
 <br>
 
 ## Technologies and Tools

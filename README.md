@@ -17,6 +17,7 @@ I am in the process of studying coding. And I'm a prospective developer.
 - [Parallax Effect](https://hyeji1364.github.io/class2024/effect/parallax01.html) : GSAP Parallax Effect를 구현하여 정리하였습니다.
 - [Youtube Spot : API1](https://github.com/Hyeji1364/youtube-spot) : Youtube API를 이용한 Youtube Spot 사이트입니다.
 - [Music Chart : API2](https://github.com/Hyeji1364/youtube-music) : 음악 차트 API를 이용한 Music Chart 사이트입니다.
+- [Movie Chart : API3](https://github.com/Hyeji1364/movie-chart) : 영화 차트 API를 이용한 Moive Chart 사이트입니다. 최신 영화, 추천 영화, 인기 영화를 볼 수 있습니다.
 
 ## 👨‍👧‍👧 Team Projects 
 
